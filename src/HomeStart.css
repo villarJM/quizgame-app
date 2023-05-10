@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    padding: 0;
+} 
+body, .Start{
+    background-color: #1d224a;
+}
+.Start, h1{
+    position: relative;
+    text-align: center;
+    top: 120px;
+    font-family: 'ArcadeClassic', sans-serif;
+    color: #ffe81d;
+    font-size: 70px;
+    text-shadow: 2px 2px #e23e3e;                           
+}
+.Start, h1:hover {
+    color: #16ff29;
+    text-shadow: 2px 2px #05494e; 
+}

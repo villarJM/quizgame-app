@@ -1,0 +1,53 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+.col-md-12 {
+  margin: 10px;
+  height: 50px;
+  width: 1100px;
+  /* border: 1px solid rgb(255, 255, 255); */
+}
+
+.col-md-10 {
+  position: relative;
+  margin: 10px;
+  left: 90px;
+  /* border: 1px solid rgb(255, 255, 255); */
+}
+.col-md-10, .card{
+  background-color: #1d2749;
+  color: #fff;
+  margin: 10px;
+  /* top: 30px; */
+  box-shadow: 3px 3px 9px #0e183d;
+}
+.left{
+  position: relative;
+  top: -37px;
+}
+.card-header {
+  background-color: #ff2c74;
+}
+.btn {
+  margin: 5px;
+}
+.coltitle {
+    position: relative;
+    text-align: center;
+    top: 5px;
+    font-family: 'ArcadeClassic', sans-serif;
+    color: #ffe81d;
+    font-size: 50px;
+    text-shadow: 2px 2px #e23e3e;
+}
+.grupobtn {
+  position: relative;
+  bottom: 60px;
+  right: 185px;
+}
+.btncheck {
+  position: relative;
+  bottom: 60px;
+  right: 225px;
+}
